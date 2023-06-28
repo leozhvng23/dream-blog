@@ -19,7 +19,7 @@ When I'm not engrossed in studies or working on intriguing projects, you'll like
 
 ## About My Project
 
-A street camera-based navigation assistance system that helps blind pedestrians navigate outdoor urban environments safely.
+StreetSmart is a smart city-enabled solution to enhance outdoor navigation for blind and low vision (BLV) individuals by leveraging existing infrastructure. Utilizing street-embedded technology, StreetSmart provides precise mapping, localization, and haptic guidance to BLV users, enabling safer navigation through city environments. This project addresses the gap in accurate outdoor localization without imposing additional costs or requiring extra hardware for the users, potentially revolutionizing the way BLV individuals navigate and explore their outdoor surroundings.
 
 [My Final Report](files/finalreport.pdf)
 
