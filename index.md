@@ -7,11 +7,11 @@ title: DREAM Project Site
 {:toc}
 
 ## About Me
-I'm a dedicated and enthusiastic Computer Science Master's student at Columbia University, specializing in Machine Learning, Human-Computer Interaction (HCI), and Computer Vision. Before embarking on this journey, I obtained my undergraduate degree in Industrial Design from Pratt Institute, with a concentrated focus on User Experience Design.
+I'm a dedicated and enthusiastic Computer Science Master's student at Columbia University, specializing in Machine Learning, Human-Computer Interaction (HCI), and Computer Vision. Before embarking on this journey, I obtained my undergraduate degree in Industrial Design from Pratt Institute, with a concentrated focus on User Experience Design and Accessible Design.
 
 My diverse academic background, combining the creative rigors of design with the methodical thinking of computer science, sparked my profound interest in HCI. The fusion of these two fields not only satiates my intellectual curiosity but also provides me with a unique perspective in addressing complex issues.
 
-When I'm not engrossed in studies or working on intriguing projects, you'll likely find me scaling walls as a rock climbing enthusiast or zipping through streets on my bicycle. I'm also a connoisseur of specialty coffee, always in search of that perfect blend and brew. This medley of experiences and interests shapes who I am, a perpetual learner committed to making a difference at the intersection of technology and design.
+When I'm not engrossed in studies or working on intriguing projects, you'll likely find me scaling walls as a rock climbing enthusiast or zipping through streets on my road bike. I'm also a connoisseur of specialty coffee, always in search of that perfect blend and brew. This medley of experiences and interests shapes who I am, a perpetual learner committed to making a difference at the intersection of technology and design.
 
 ## About My Advisor
 
