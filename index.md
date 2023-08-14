@@ -15,7 +15,7 @@ When I'm not engrossed in studies or working on intriguing projects, you'll like
 
 ## About My Advisor
 
-[Brian Smith](https://www.cs.columbia.edu/~brian/) is an Assistant Professor in the Department of Computer Science at Columbia University, where he directs the Computer-Enabled Abilities Laboratory (CEAL) and contributes to the Data, Media, and Society Center, as well as the Smart Cities Center of the Data Science Institute. He has a strong industry background, having served as a research scientist at Snap Research, where he explored innovative ways to connect people through augmented reality (AR) and wearable technologies, translating his research into practical applications like Friendscope and ARcall.
+[Brian Smith](https://www.cs.columbia.edu/~brian/) is an Assistant Professor in the Department of Computer Science at Columbia University, where he directs the Computer-Enabled Abilities Laboratory (CEAL) and contributes to the Data, Media, and Society Center, as well as the [Center for Smart Streetscapes](https://cs3-erc.org/) of the Data Science Institute. He has a strong industry background, having served as a research scientist at Snap Research, where he explored innovative ways to connect people through augmented reality (AR) and wearable technologies, translating his research into practical applications like Friendscope and ARcall.
 
 ## About My Project
 
