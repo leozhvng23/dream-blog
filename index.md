@@ -21,7 +21,7 @@ When I'm not engrossed in studies or working on intriguing projects, you'll like
 
 People with blindness or low vision (BLV) often rely on GPS systems for outdoor navigation. These tools offer general direction but lack precise, real-time data about a user's immediate surroundings which is essential for safe movement. We are exploring the potential of street cameras as a solution to this limitation. Through preliminary interviews with six BLV individuals, we pinpointed three core navigation challenges they face: understanding the layout of their surroundings, sidestepping obstacles during transit, and safely crossing busy streets. To tackle these issues, we're in the process of creating a navigation aid based on street cameras. This system aims to give auditory cues in real-time to BLV users, aiding in avoiding obstacles, signaling the best times to cross streets, and offering insight into the environment's layout.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](https://arxiv.org/abs/2310.00491)
 
 ## My Blog
 
